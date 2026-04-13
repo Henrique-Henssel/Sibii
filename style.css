@@ -1,0 +1,46 @@
+body{
+    background:#faf4e6;
+    font-family: Georgia, serif;
+    margin:0;
+    text-align:center;
+}
+
+header{
+    padding:40px;
+}
+
+.logo{
+    width:120px;
+}
+
+h1{
+    font-size:48px;
+    letter-spacing:4px;
+}
+
+.intro{
+    max-width:700px;
+    margin:auto;
+    padding:40px;
+}
+
+.catalogo{
+    background:#f0e6d2;
+    padding:40px;
+}
+
+.catalogo ul{
+    list-style:none;
+    padding:0;
+}
+
+.catalogo li{
+    margin:10px;
+    font-size:20px;
+}
+
+footer{
+    padding:30px;
+    font-size:14px;
+    color:#555;
+}
