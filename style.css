@@ -78,6 +78,7 @@ border-radius:10px;
 
 transition:transform 0.2s;
 
+box-shadow:0px 4px 10px rgba(0,0,0,0.2);
 }
 
 .filosofia{
@@ -121,3 +122,7 @@ to bottom,
 transform:scale(1.05);
 
     }
+.categoria:hover{
+transform:scale(1.05);
+                }
+transition:all 0.2s ease;
