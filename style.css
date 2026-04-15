@@ -79,3 +79,45 @@ border-radius:10px;
 transition:transform 0.2s;
 
 }
+
+.filosofia{
+background:linear-gradient(
+to bottom,
+#3a5a8a,
+#4f7bb8,
+#3a5a8a
+);
+    }
+
+.matematica{
+background:linear-gradient(
+to bottom,
+#3d7a3a,
+#57a853,
+#3d7a3a
+);
+}
+
+.ciencias{
+background:linear-gradient(
+to bottom,
+#6b3a8a,
+#9a56c2,
+#6b3a8a
+);
+}
+
+.literatura{
+background:linear-gradient(
+to bottom,
+#8a5a2f,
+#b67a3f,
+#8a5a2f
+);
+}
+
+.categoria:hover{
+
+transform:scale(1.05);
+
+    }
