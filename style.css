@@ -157,3 +157,57 @@ border-radius:6px;
 box-shadow:0px 4px 10px rgba(0,0,0,0.3);
 
     }
+
+.livro-pagina{
+
+max-width:600px;
+
+margin:auto;
+
+padding:40px;
+
+}
+
+.capa-grande{
+
+width:220px;
+
+margin:auto;
+
+display:block;
+
+box-shadow:0px 6px 15px rgba(0,0,0,0.3);
+
+border-radius:6px;
+
+}
+
+.acoes{
+
+margin-top:30px;
+
+}
+
+.botao{
+
+display:inline-block;
+
+padding:10px 20px;
+
+margin:10px;
+
+background:#8a5a2f;
+
+color:white;
+
+text-decoration:none;
+
+border-radius:6px;
+
+}
+
+.botao:hover{
+
+background:#6d4522;
+
+}
