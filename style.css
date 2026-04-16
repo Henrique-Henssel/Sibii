@@ -220,3 +220,18 @@ margin:30px 0;
 color:#8a7a5a;
 
     }
+.metadados{
+
+list-style:none;
+
+padding:0;
+
+margin-top:20px;
+
+}
+
+.metadados li{
+
+margin:5px 0;
+
+}
